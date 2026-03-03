@@ -1,11 +1,4 @@
-// ===============================
-// WEBSITE PORTOFOLIO RESMI
-// FOTO PROFIL SUDAH DISEDIAKAN
-// ===============================
-// LANGKAH AGAR FOTO TAMPIL DI WEBSITE:
-// 1. Simpan foto yang Anda upload dengan nama: dika-farijal.png
-// 2. Masukkan file tersebut ke dalam folder /public pada project React Anda
-// 3. Pastikan penulisan nama file sama persis (huruf besar/kecil harus sama)
+
 
 export default function PersonalWebsite() {
   return (
